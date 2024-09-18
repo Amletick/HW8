@@ -1,0 +1,4 @@
+name,path,type,size,parent
+employees1.json,zad_2\employees1.json,file,277,zad_2
+employees2.json,zad_2\employees2.json,file,260,zad_2
+employees3.json,zad_2\employees3.json,file,139,zad_2

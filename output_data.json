@@ -1,0 +1,23 @@
+[
+    {
+        "name": "employees1.json",
+        "path": "zad_2\\employees1.json",
+        "type": "file",
+        "size": 277,
+        "parent": "zad_2"
+    },
+    {
+        "name": "employees2.json",
+        "path": "zad_2\\employees2.json",
+        "type": "file",
+        "size": 260,
+        "parent": "zad_2"
+    },
+    {
+        "name": "employees3.json",
+        "path": "zad_2\\employees3.json",
+        "type": "file",
+        "size": 139,
+        "parent": "zad_2"
+    }
+]
